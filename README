@@ -1,0 +1,6 @@
+xtab is a simple bash script running in userspace that extends crontab
+functionality :
+
+- Define which year(s) a crontab will run
+- Define how many times a crontab will run
+- Make a contab expire after a given date
